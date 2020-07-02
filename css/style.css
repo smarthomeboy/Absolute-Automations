@@ -181,13 +181,15 @@ p,.text{
 ::-webkit-input-placeholder{color: inherit;}
 ::-moz-input-placeholder{color: inherit;}
 ::-ms-input-placeholder{color: inherit;}
+
+
 /*whatsapp*/
 .float{
 	position:fixed;
 	width:60px;
 	height:60px;
 	bottom:40px;
-	right:40px;
+	left:40px;
 	background-color:#25d366;
 	color:#FFF;
 	border-radius:50px;
@@ -201,6 +203,8 @@ p,.text{
 	margin-top:16px;
 }
 /*endwhatsapp*/
+
+
 .auto-container{
 	position:static;
 	max-width:1200px;
