@@ -1,5 +1,5 @@
 <?php
-    if(isset($_POST['submit']))
+    if(isset($_POST['submit-form']))
     {
         $name = $_POST['name']; // Get Name value from HTML Form
         $email_id = $_POST['email']; // Get Email Value
