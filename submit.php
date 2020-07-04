@@ -1,10 +1,23 @@
 <?php
         $name = $_REQUEST['username']; // Get Name value from HTML Form
         $email_id = $_REQUEST['email']; // Get Email Value
-        $msg = $_POST['contact_message']; // Get Message Value
-         
-        $to = "karanmishra9478@gmail.com"; // You can change here your Email
-        $subject = "'$name' has sent a mail from Absolute-Automations Website"; // This is your subject
+        $msg = $_REQUEST['contact_message']; // Get Message Value
+
+        if(mail($to,$subject,$message,$headers)){
+            // Message if mail has been sent
+            echo "<script type='text/javascript'>
+                    alert('Mail has been sent Successfully.');
+                </script>";
+        }
+ 
+        else{
+            // Message if mail has been not sent
+            echo "<script type='text/javascript'>
+                    alert('EMAIL FAILED');
+                </script>";
+        }
+
+        mail("karanmishra9478@gmail.com","Email Form",$message, "From: Absolute-Automations website by $name <$email>");
          
 
          
@@ -17,17 +30,5 @@
         $headers .= 'Cc: info@websapex.com' . "\r\n"; // If you want add cc
         $headers .= 'Bcc: boss@websapex.com' . "\r\n"; // If you want add Bcc
          
-        if(mail($to,$subject,$message,$headers)){
-            // Message if mail has been sent
-            echo "<script>
-                    alert('Mail has been sent Successfully.');
-                </script>";
-        }
- 
-        else{
-            // Message if mail has been not sent
-            echo "<script>
-                    alert('EMAIL FAILED');
-                </script>";
-        }
+
 ?>
