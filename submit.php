@@ -1,6 +1,4 @@
 <?php
-    if(isset($_POST['submit-form']))
-    {
         $name = $_REQUEST['username']; // Get Name value from HTML Form
         $email_id = $_REQUEST['email']; // Get Email Value
         $msg = $_POST['contact_message']; // Get Message Value
@@ -32,5 +30,4 @@
                     alert('EMAIL FAILED');
                 </script>";
         }
-    }
 ?>
