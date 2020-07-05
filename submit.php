@@ -5,8 +5,9 @@
         $email_id = $_POST['email']; // Get Email Value
         $msg = $_POST['contact_message']; // Get Message Value
          
-        $to = "karanmishra9478@gmail.com"; // You can change here your Email
-        $subject = "'$name' has sent a mail from Absolute-Automations Website"; // This is your subject
+        $mailTo = "karanmishra9478@gmail.com"; // You can change here your Email
+        $subject = .$name" has sent a mail from Absolute-Automations Website"; // This is your subject
+        $headers="From: ".$email_id;
          
         // HTML Message Starts here
         $message ="
@@ -33,16 +34,7 @@
             
         // HTML Message Ends here
          
-        // Always set content-type when sending HTML email
-        $headers = "MIME-Version: 1.0" . "\r\n";
-        $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
- 
-        // More headers
-        $headers .= 'From: Admin <karanmishra9478@gmail.com>' . "\r\n"; // Give an email id on which you want get a reply. User will get a mail from this email id
-        $headers .= 'Cc: info@websapex.com' . "\r\n"; // If you want add cc
-        $headers .= 'Bcc: boss@websapex.com' . "\r\n"; // If you want add Bcc
-         
-        if(mail($to,$subject,$message,$headers)){
+        if(mail($mailTo,$subject,$message,$headers)){
             // Message if mail has been sent
             echo "<script>
                     alert('Mail has been sent Successfully.');
@@ -57,3 +49,31 @@
         }
     }
 ?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />    
+<link href="css/bootstrap.css" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
+<link href="css/responsive.css" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<form action="submit.php" id="email-form" method="post">
+<div class="form-group mb-0">
+<div class="response"></div>
+</div>
+
+<div class="form-group"><label>Your Name (required)</label> <input class="username" name="username" type="text" /></div>
+
+<div class="form-group"><label>Email (required)</label> <input class="email" name="email" type="email" /></div>
+
+<div class="form-group"><label>Message</label><textarea name="contact_message"></textarea></div>
+
+<div class="form-group"><button class="theme-btn btn-style-three" id="submit" name="submit" type="button">Send</button></div>
+</form>
+</body>
+</html>
