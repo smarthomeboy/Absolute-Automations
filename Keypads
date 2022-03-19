@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from html.cwsthemes.com/ingenious/portfolio-single-gallery.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 May 2020 08:01:08 GMT -->
+<head>
+<meta charset="utf-8">
+<title>Absolute Automations | Safe and Secure</title>
+<!-- Stylesheets -->
+<link href="css/bootstrap.css" rel="stylesheet" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+<link href="plugins/revolution/css/settings.css" rel="stylesheet" type="text/css" /><!-- REVOLUTION SETTINGS STYLES -->
+<link href="plugins/revolution/css/layers.css" rel="stylesheet" type="text/css" /><!-- REVOLUTION LAYERS STYLES -->
+<link href="plugins/revolution/css/navigation.css" rel="stylesheet" type="text/css" /><!-- REVOLUTION NAVIGATION STYLES -->
+<link href="css/style.css" rel="stylesheet" />
+<link href="css/responsive.css" rel="stylesheet" />
+<link href="images/favicon.png" rel="shortcut icon" type="image/x-icon" />
+<link href="images/favicon.png" rel="icon" type="image/x-icon" /><!-- Responsive --><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"><!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]--><!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+</head>
+<body>
+<div class="page-wrapper"><!-- Preloader -->
+<div class="preloader">
+<div class="cws_loader"><span>LOADING...</span>
+<div class="hex"></div>
+
+<div class="hex"></div>
+
+<div class="hex"></div>
+
+<div class="hex"></div>
+
+<div class="hex"></div>
+
+<div class="hex"></div>
+
+<div class="hex"></div>
+</div>
+</div>
+    
+    <!-- Main Header-->
+    <header class="main-header"><!-- Main box -->
+        <div class="main-box">
+        <div class="menu-box">
+        <div class="logo"><a href="index.html"><img alt="" src="images/logoaa.png" /></a></div>
+        <!--Nav Box-->
+        
+        <div class="nav-outer"><!-- Main Menu -->
+        <nav class="main-menu navbar-expand-md navbar-light">
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navigation clearfix">
+            <li><a href="index.html"><span>Home</span></a></li>
+            <li class="dropdown"><a href="products.html"><span>Products</span></a>
+            <ul>
+                <li><a href="products.html#HomeAutomation">Home Automation</a></li>
+                <li><a href="products.html#BuildingAutomation">Building Automation</a></li>
+            </ul>
+            </li>
+            <li class="dropdown"><a href="#"><span>Knowledge Centre</span></a>
+                <ul>
+                    <li><a href="blog1.html#SmartHomes">What are Smart Homes?</a></li>
+                    <li><a href="blog.html#ElectricFencing">Electric Fence: Solution to monkey intrusion</a></li>
+                </ul>
+                </li>
+            <li><a href="services.html"><span>Services</span></a></li>
+            <li><a href="about.html"><span>About Us</span></a></li>
+            <li><a href="contact.html"><span>Contact Us</span></a></li>
+        </ul>
+        </div>
+        </nav>
+                    <!-- Main Menu End-->
+
+                    <div class="outer-box clearfix"><!-- Shoppping Car -->
+                        <div class="cart-btn"><!-- <a href="shopping-cart.html"><i class="icon flaticon-shopping-cart-empty-side-view"></i> <span class="count">2</span></a>
+                        
+                                                    <div class="shopping-cart">
+                                                        <ul class="shopping-cart-items">
+                                                            <li class="cart-item">
+                                                                <img src="images/resource/item-thumb-1.jpg" alt="#" class="thumb" />
+                                                                <span class="item-name">Night Security Cam 2Z1</span>
+                                                                <span class="item-quantity">1 x <span class="item-amount">$84.00</span></span>
+                                                                <a href="shop-single.html" class="product-detail"></a>
+                                                                <button class="remove-item"><span class="fa fa-times"></span></button>
+                                                            </li>
+                        
+                                                            <li class="cart-item">
+                                                                <img src="images/resource/item-thumb-2.jpg" alt="#" class="thumb"  />
+                                                                <span class="item-name">Day Security Camera B2Z1</span>
+                                                                <span class="item-quantity">1 x <span class="item-amount">$13.00</span></span>
+                                                                <a href="shop-single.html" class="product-detail"></a>
+                                                                <button class="remove-item"><span class="fa fa-times"></span></button>
+                                                            </li>
+                                                        </ul>
+                        
+                                                        <div class="cart-footer">
+                                                            <div class="shopping-cart-total"><strong>Subtotal:</strong> $97.00</div>
+                                                            <a href="cart.html" class="theme-btn">View Cart</a>
+                                                            <a href="checkout.html" class="theme-btn">Checkout</a> --><!-- </div> --><!-- </div> end shopping-cart --> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Sticky Header  -->
+        <div class="sticky-header">
+            <div class="outer-box"><!--Logo-->
+            <div class="logo"><a href="index.html" style="height:10px; width: 10px;" title="Sticky Logo"><img alt="Sticky Logo" src="images/logoaablack.png" /></a></div>
+            <!--Nav Outer-->
+            
+            <div class="nav-outer"><!-- Main Menu -->
+            <nav class="main-menu"><!--Keep This Empty / Menu will come through Javascript--></nav>
+            <!-- Main Menu End--></div>
+            </div>
+            </div>
+            <!-- End Sticky Menu --><!-- Mobile Header -->
+            
+            <div class="mobile-header">
+            <div class="logo"><a href="index.html" style="width: 130px;"><img alt="" src="images/logoaa.png" title="" /></a></div>
+            <!--Nav Box-->
+            
+            <div class="nav-outer clearfix"><!--Keep This Empty / Menu will come through Javascript--></div>
+            </div>
+            <!-- Mobile Menu  -->
+            
+            <div class="mobile-menu">
+            <nav class="menu-box">
+             <div class="nav-logo">
+            <!-- 	 <a href="index.html">
+                     <img alt="" src="images/logoaablack.png" title="" />
+                 </a> -->
+                </div>
+            <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></nav>
+            </div>
+            <!-- End Mobile Menu --><!-- Header Search --><!-- <div class="search-popup">
+                        <span class="search-back-drop"></span>
+                        
+                        <div class="search-inner">
+                            <button class="close-search"><span class="fa fa-times"></span></button>
+                            <form method="post" action="http://html.cwsthemes.com/ingenious/blog-showcase.html">
+                                <div class="form-group">
+                                    <input type="search" name="search-field" value="" placeholder="Search..." required="">
+                                    <button type="submit"><i class="fa fa-search"></i></button>
+                                </div>
+                            </form>
+                        </div>
+                    </div> --><!-- End Header Search --></header>
+    <!--End Main Header -->
+    
+    <!--Page Title-->
+    <section class="page-title">
+        <!-- Background Layers -->
+        <div class="background-layers">
+            <div class="cws-image-bg" style="background-image: url(images/background/37.jpg)">
+                <div class="cws-overlay-bg"></div>
+            </div>
+        </div>
+
+        <div class="auto-container">
+            <h1>Electric Fence</h1>
+            <ul class="page-breadcrumb">
+                <li><a href="index.html">Home</a></li>
+                <li>Perimeter Security</li>
+            </ul>
+        </div>
+    </section>
+    <!--End Page Title-->
+
+    <!-- Blog Single -->
+    <section class="blog-single">
+        <div class="auto-container">
+            <!-- News Block -->
+            <div class="news-block">
+                <div class="inner-box">
+                    <div class="image-column">
+                        <div class="inner-column">
+                            <figure class="image"><img src="images/resource/electricfence.jpg" alt=""></figure>
+                        </div>
+                    </div>
+                    <div class="content-column">
+                        <div class="inner-column">
+                            <ul class="post-info">
+                                <li><span class="icon fa fa-calendar"></span> October 28, 2021</li>
+                                <li><span class="icon fa fa-user"></span> by admin</li>
+                                <li><span class="icon fa fa-heart"></span> 380 likes</li>
+                                <li><span class="icon fa fa-search"></span>Location: Doon Vihar Dehradun</li>
+                            </ul>
+                            <div class="post-tags">
+                                <a href="#">Safe Uttarakhand</a>
+                                <a href="#">Smart City Dehradun</a>
+                                <a href="#">Monkey Immunity</a>
+                                <a href="#">Security</a>
+                                <a href="#">Safety</a>
+                                <a href="#">Electric Fencing in Uttarakhand</a>
+                                <a href="#">Keep monkeys away</a>
+                                <a href="#">Prevent Intrusion</a>
+                            </div>
+                            <h2>Electric Fencing</h2>
+                            <p>Monkey invasion is a significant thing that we face in Uttarakhand. Dehradun, Rishikesh, Haridwar are majorly affected. We hear new stories every day of what was destroyed by a troop of monkeys. Electric Fencing proves to be a very effective solution if executed the right way. </p>
+                            <p>But electric fencing sounds so dangerous and can be fatal to our fellow humans, right? </p>
+                            <p>Short answer, No. Let us explain, lets start with the definition. "Electric Fence is a barrier that uses electric SHOCKS to deter animals and humans from crossing a boundary. When anyone tries to touch the electric fence, it completes an electrical circuit. Then, a device called energizer converts this power into an BRIEF Electric Pulse." The point here to notice is that only a brief electric pulse is generated, and it only has the potential to shock the animal. If the electric fence you plan to have is certified and legal, it will not be fatal. The animal that tried to touch it might get a high-intensity shock, but it will not cause any permanent damage. </p>
+                            <p>But is it legal to have an electric barrier?</p>
+                            <p>In India, according to our laws, it is legal to install an electric fence on the boundary of our property. It certainly has some restrictions and some certifications it needs, to be compliant with our laws. The amount of current that we can pass through it is restricted. Plus, it is compulsory to have a danger sign installed on it so that no one touches it unknowingly. Danger signs are essential, and it also has a minimum height recommended so that no one can easily access them. So the rule of thumb that we follow is that the height should be a minimum of 6.5 feet.
+                            </p>
+                            <p>Sounds like a relief? So, first, it's not fatal, and second, it's legal to have in India. Now, what does it cost? And does it have enough return on investment?</p>
+                            <p>When calculating the cost, there are a number of variables that need to be considered according to the treatment area. The walls can have a height difference; they can be slanting, they might have trees around it that can help the monkeys bypass the fence. So there are multiple variables to calculate the cost. Hence we have a in-house team that is available full-time right in your state Uttarakhand. We will help you calculate the cost of the electric fence. We will get the complete installation executed as well. The same team gives you comprehensive after-sales service and is present in your city whenever you need them.</p>
+                            <p>When talking about ROI, it ultimately depends on you and the purpose you are trying to resolve. If monkey intrusion is a problem, there is no better solution than installing an 8 line or a 12 line fence according to your situation. You will definitely reap its benefits and thank it when you hear about monkey outrages in your neighborhood. </p>
+                            <p>All we want is your security :) We researched for the best well-known electric fencing solutions around the world. Its crazy how electric fence is used as a staple in the South of Africa for security. South Africa is the hub of electric fence manufacturing, so we have chosen some well-known brands and we have started importing them for our people in Uttarakhand.</p>
+                            <p>We always have ready stock of electric fencing products in our experience Centre at Prince Chowk, Dehradun. You are most welcome to visit us anytime and see what quality products we are importing for you all :). You will not only see electric fencing solutions, we also have a full-scale live demo of alarm systems, security digital door locks, security cameras and much more smart home stuff that you and your family will love. ;)</p>
+                            <p>Looking forward to connect with you. Please go to our contact page, we have our complete contact information present there.</p>
+                            <!-- <p><strong>Etiam aliquam mauris suspendisse at, adipiscing senectus.</strong></p> -->
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!--Comment Form-->
+            <!-- <div class="comment-form">
+                <h3>Leave a Reply</h3>
+                <div class="default-form form-outer">
+                    <p>Your email address will not be published. Required fields are marked *</p>
+                    <form method="post" action="http://html.cwsthemes.com/ingenious/blog-showcase.html"> 
+                        <div class="row">
+                            <div class="col-lg-12 col-md-12 col-sm-12 form-group">
+                                <div class="field-label">Comment</div>
+                                <textarea name="message" placeholder=""></textarea>
+                            </div>
+
+                            <div class="col-lg-4 col-md-12 col-sm-12 form-group">
+                                <div class="field-label">Name *</div>
+                                <input type="text" name="username" placeholder="" required="">
+                            </div>
+                            
+                            <div class="col-lg-4 col-md-12 col-sm-12 form-group">
+                                <div class="field-label">Email *</div>
+                                <input type="email" name="email" placeholder="" required="">
+                            </div>
+                            
+                            <div class="col-lg-4 col-md-12 col-sm-12 form-group">
+                                <div class="field-label">Website</div>
+                                <input type="url" name="website" placeholder="" required="">
+                            </div>
+
+                            <div class="col-lg-12 col-md-12 col-sm-12 form-group">
+                                <input type="submit" class="theme-btn btn-style-three" name="submit" value="Submit">
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div> -->
+        </div>
+    </section>
+    <!-- End Blog Single -->
+
+    <!-- Main Footer -->
+    <footer class="main-footer" style="background-image: url(images/background/6.jpg);">
+        <div class="auto-container"><!--Widgets Section-->
+        <div class="widgets-section">
+        <div class="row"><!--Footer Column-->
+        <div class="footer-column col-lg-4 col-md-6 col-sm-12">
+        <div class="footer-widget about-widget">
+        <h4 class="widget-title">Absolute Automations</h4>
+        
+        <div class="widget-content">
+        <div class="text">We have been working consistently to make these high technology automations as simple as they can be for a newbie to understand. We are here 24*7 to cater all your security and automation related queries.</div>
+        </div>
+        </div>
+        </div>
+        
+        <div class="footer-column col-lg-4 col-md-6 col-sm-12">
+        <div class="footer-widget recent-posts">
+        <h4 class="widget-title">LATEST POSTS</h4>
+        <!--Footer Column-->
+        
+        <div class="widget-content">
+        <article class="post">
+        <div class="thumb"><a href="blog-detail.html"><img alt="" src="images/resource/post-thumb-1.jpg" /></a></div>
+        
+        <h5><a href="blog-detail.html">Servo Stabilizers</a></h5>
+        <span class="cat">Security</span>
+        
+        <div class="text">Servo is the most precise technology for voltage stablization. This is the primary requirement for someone who installs expensive electrical devices in his property.</div>
+        </article>
+        </div>
+        </div>
+        </div>
+        <!--Footer Column-->
+        
+        <div class="footer-column col-lg-4 col-md-6 col-sm-12">
+        <div class="footer-widget contact-widget">
+        <h4 class="widget-title">OUR CONTACTS</h4>
+        
+        <div class="widget-content">
+        <ul class="contact-list">
+            <li><a href="mailto:mail2anilchauhan@gmail.com">mail2anilchauhan@gmail.com</a></li>
+            <li><a href="tel:+919458902090">(+91)-9458902090</a></li>
+            <li><a href="http://maps.google.com/?q=3/2 Tyagi Road, Dehradun">3/2 Tyagi Road, Dehradun</a></li>
+            <div class="social-icon">  <a href="https://www.facebook.com/absoluteautomations/"><i class="fab fa-facebook-f"></i></a>
+                                                   <a href="#"><i class="fab fa-twitter"></i></a>
+                                                   <a href="https://www.instagram.com/absoluteautomations/"><i class="fab fa-instagram"></i></a>
+                                                   <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                                   <a href="#"><i class="fa fa-signal"></i></a></div>
+            </li>
+        </ul>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        <!--Footer Bottom-->
+        
+        <div class="footer-bottom">
+        <div class="auto-container">
+        <div class="copyright-text">
+        <p><a href="index.html" style="font-weight:600">Absolute Automations</a> - Website developed and maintained by <a href="https://kmishra.com" style="font-weight:600">Karan Mishra</a> and Pranav Chauhan</p>
+        </div>
+        </div>
+        </div>
+        </footer>
+    <!-- End Main Footer -->
+
+</div><!-- End Page Wrapper -->
+
+<!-- Scroll To Top -->
+<div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-long-arrow-alt-up"></span></div>
+
+<script src="js/jquery.js"></script> 
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.fancybox.js"></script>
+<script src="js/owl.js"></script>
+<script src="js/wow.js"></script>
+<script src="js/appear.js"></script>
+<script src="js/jquery.fancybox.js"></script>
+<script src="js/sticky_sidebar.min.js"></script>
+<script src="js/isotope.js"></script>
+<script src="js/script.js"></script>
+</body>
+
+<!-- Mirrored from html.cwsthemes.com/ingenious/blog-post-image.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 May 2020 08:02:05 GMT -->
+</html>
